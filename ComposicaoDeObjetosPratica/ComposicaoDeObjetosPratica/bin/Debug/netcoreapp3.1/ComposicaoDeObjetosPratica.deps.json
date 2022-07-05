@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "ComposicaoDeObjetosPratica/1.0.0": {
+        "runtime": {
+          "ComposicaoDeObjetosPratica.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ComposicaoDeObjetosPratica/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
